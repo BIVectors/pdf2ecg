@@ -7,8 +7,8 @@ repo = fileparts(here);
 addpath(here);
 
 % Set paths for PDF and XML files
-pdfFile = fullfile(here, 'ecgs', 'ecg_12x1.pdf');
-xmlFile = fullfile(here, 'ecgs', 'ecg.xml');
+pdfFile = fullfile(repo, 'ecgs', 'ecg_12x1.pdf');
+xmlFile = fullfile(repo, 'ecgs', 'ecg.xml');
 
 % pdfFile = '<path to PDF File>';
 % xmlFile = '<path to XML File>';
