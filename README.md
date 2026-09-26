@@ -14,9 +14,10 @@ Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA
 braveheart.ecg@gmail.com**
 
 ---
+<img width="1398" height="433" alt="image" src="https://github.com/user-attachments/assets/32374727-4d02-4265-b729-53f4b93e84a4" />
 
-<img width="1398" height="433" alt="image" src="https://github.com/user-attachments/assets/b6f8f919-87c0-418b-9a76-361305dda09b" />   
-<img width="1398" height="433" alt="image" src="https://github.com/user-attachments/assets/daff978c-82f5-4b77-beab-f97ff471d055" />
+<img width="1398" height="433" alt="image" src="https://github.com/user-attachments/assets/2b9d42cb-ac77-40f9-95b5-0ff1377e4f9e" />
+
 
 ---
 
@@ -310,7 +311,7 @@ If you use this software, please cite:
 ---
 ## License
 
-Copyright 2016-2026 Jonathan W. Waks
+Copyright 2026 Jonathan W. Waks
 All rights reserved.
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/ or the LICENSE file included in this repository.
 
