@@ -6,7 +6,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=BIVectors/pdf2ecg&file=matlab/pdf2ecgdemo.m)   
 [![badge](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/) ![badge](https://img.shields.io/badge/NumPy-2.4-blue?logo=numpy&logoColor=white) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIVectors/pdf2ecg/HEAD?labpath=python/pdf2ecgdemo.ipynb)   
 ![badge](https://badgen.net/badge/License/GPL-3.0/?color=red)    
-[![badge](https://img.shields.io/badge/📄-Methods%20Manuscript-F7DF1E?style=flat)](https://medrxiv.org)
+[![badge](https://img.shields.io/badge/📄-Methods%20Manuscript-F7DF1E?style=flat)](https://www.medrxiv.org/content/10.64898/2026.09.23.26362281v1)
 
 **Jonathan W. Waks, MD   
 Harvard-Thorndike Electrophysiology Institute, Department of Cardiovascular Medicine,   
@@ -40,7 +40,7 @@ due to being outside of the rendering area.  This results in loss of data which 
 The ECGs flagged for clipping should be inspected prior to use as they can contain significant reconstruction
 errors.
 
-Please see our preprint at XXX for a full discussion of the software methods and results of testing
+Please see our preprint at [medRxiv](https://www.medrxiv.org/content/10.64898/2026.09.23.26362281v1) for a full discussion of the software methods and results of testing
 on a large database of PDF ECGs in multiple formats.
 
 ---
@@ -306,7 +306,21 @@ The test results are explained in detail in the methods manuscript.
 
 If you use this software, please cite:
 
-> *(methods paper — add citation here)*
+```
+Abdelrahman, K., Stabenau, H. F., Patlatzoglou, K., Sau, A., Zeidaabadi, B., Pastika, L., Peters, N. S., Ng, F. S., Kramer, D. B., & Waks, J. W. Bit-exact reconstruction and certification of electrocardiogram waveforms from vector-encoded PDF files. medRxiv. 9/2026. https://doi.org/10.64898/2026.09.23.26362281
+```
+
+BibTeX:
+```
+@article{abdelrahman2026pdf2ecg,
+  title   = {Bit-Exact Reconstruction and Certification of Electrocardiogram Waveforms from Vector-Encoded PDF Files},
+  author  = {Abdelrahman, K. and Stabenau, H. F. and Patlatzoglou, K. and Sau, A. and Zeidaabadi, B. and Pastika, L. and Peters, N. S. and Ng, F. S. and Kramer, D. B. and Waks, J. W.},
+  journal = {medRxiv},
+  year    = {2026},
+  doi     = {10.64898/2026.09.23.26362281},
+  note    = {Preprint}
+}
+```
 
 ---
 ## License
