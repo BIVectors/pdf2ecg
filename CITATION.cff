@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "pdf2ECG"
+type: software
+repository-code: "https://github.com/BIVectors/pdf2ECG"
+authors:
+  - family-names: Abdelrahman
+    given-names: K.
+  - family-names: Stabenau
+    given-names: H. F.
+  - family-names: Patlatzoglou
+    given-names: K.
+  - family-names: Sau
+    given-names: A.
+  - family-names: Zeidaabadi
+    given-names: B.
+  - family-names: Pastika
+    given-names: L.
+  - family-names: Peters
+    given-names: N. S.
+  - family-names: Ng
+    given-names: F. S.
+  - family-names: Kramer
+    given-names: D. B.
+  - family-names: Waks
+    given-names: Jonathan W.
+preferred-citation:
+  type: article
+  title: "Bit-Exact Reconstruction and Certification of Electrocardiogram Waveforms from Vector-Encoded PDF Files"
+  authors:
+    - family-names: Abdelrahman
+      given-names: K.
+    - family-names: Stabenau
+      given-names: H. F.
+    - family-names: Patlatzoglou
+      given-names: K.
+    - family-names: Sau
+      given-names: A.
+    - family-names: Zeidaabadi
+      given-names: B.
+    - family-names: Pastika
+      given-names: L.
+    - family-names: Peters
+      given-names: N. S.
+    - family-names: Ng
+      given-names: F. S.
+    - family-names: Kramer
+      given-names: D. B.
+    - family-names: Waks
+      given-names: Jonathan W.
+  journal: "medRxiv"
+  year: 2026
+  month: 9
+  doi: "10.64898/2026.09.23.26362281"
+  url: "https://www.medrxiv.org/content/10.64898/2026.09.23.26362281v1"
+  notes: "Preprint"
